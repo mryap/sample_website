@@ -161,7 +161,7 @@ h2 ~ p {
 }
 
 .hero-home {
-	background-image: url(images/shark.jpg);
+	background-image: url(/images/shark.jpg);
 }	
 
 /* SOCIAL STYLES */
