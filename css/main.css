@@ -163,7 +163,7 @@ h2 ~ p {
 
 .hero-home {
 	background-image: url(/sample_website/images/shark.jpg);
-	background-position: center top;
+	/*background-position: center top;*/
 }	
 
 .hero-content {
